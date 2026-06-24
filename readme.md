@@ -4,7 +4,7 @@ A futuristic educational platform designed to simplify complex concepts through 
 
 ## Preview
 
-![Space Velocity](SV@.png)
+![Space Velocity](SV.png)
 
 ## Features
 
